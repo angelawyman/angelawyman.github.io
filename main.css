@@ -1,13 +1,16 @@
 body, html, {
   margin:0;
   padding:0;
-/* background: magenta; */
 }
 
 body {
   font-family: sans-serif;
-  background-color:rgb(234, 66, 152);
-}
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ea4298+41,ea8d4b+93,ea4298+99 */
+background: rgb(234,66,152); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(234,66,152,1) 41%, rgba(234,141,75,1) 93%, rgba(234,66,152,1) 99%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(234,66,152,1) 41%,rgba(234,141,75,1) 93%,rgba(234,66,152,1) 99%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(234,66,152,1) 41%,rgba(234,141,75,1) 93%,rgba(234,66,152,1) 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea4298', endColorstr='#ea4298',GradientType=0 ); /* IE6-9 */}
 
 h1 {
 	    display: block;
