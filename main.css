@@ -1,7 +1,7 @@
 body, html, {
   margin:0;
   padding:0;
-background: magenta;
+/* background: magenta; */
 }
 
 body {
@@ -18,4 +18,14 @@ body {
 	z-index:3;
 	top:200px;
 	left:100px;
+}
+
+h1 {
+	    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0;
+    -webkit-margin-after:0;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
 }
