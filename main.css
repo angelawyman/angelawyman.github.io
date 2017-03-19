@@ -13,7 +13,7 @@ background: linear-gradient(to bottom, rgba(234,66,152,1) 41%,rgba(234,141,75,1)
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea4298', endColorstr='#ea4298',GradientType=0 ); /* IE6-9 */}
 
 h1 {
-	    display: block;
+    display: block;
     font-size: 2em;
     -webkit-margin-before: 0;
     -webkit-margin-after:0;
