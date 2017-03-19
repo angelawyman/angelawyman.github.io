@@ -9,17 +9,6 @@ body {
   background-color:rgb(234, 66, 152);
 }
 
-.container {
-	position: relative;
-}
-
-.overlay {
-	position:absolute;
-	z-index:3;
-	top:200px;
-	left:100px;
-}
-
 h1 {
 	    display: block;
     font-size: 2em;
