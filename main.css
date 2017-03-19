@@ -1,6 +1,7 @@
 body, html, {
   margin:0;
   padding:0;
+background: magenta;
 }
 
 body {
@@ -8,11 +9,11 @@ body {
   background-color:rgb(234, 66, 152);
 }
 
-#container {
+.container {
 	position: relative;
 }
 
-#overlay {
+.overlay {
 	position:absolute;
 	z-index:3;
 	top:200px;
